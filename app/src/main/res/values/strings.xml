@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <string name="slogan">Speedifying Food Delivery</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="todo">TODO</string>
+</resources>
